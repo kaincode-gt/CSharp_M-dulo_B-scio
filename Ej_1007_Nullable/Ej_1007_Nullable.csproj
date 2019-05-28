@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1E96EE3D-BD7B-4857-8BA3-21EDBEEFA1BF}</ProjectGuid>
+    <ProjectGuid>{9679AFA8-4B06-4429-9E5B-C9C38456159D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>xxx</RootNamespace>
-    <AssemblyName>xxx</AssemblyName>
+    <RootNamespace>Ej_1007_Nullable</RootNamespace>
+    <AssemblyName>Ej_1007_Nullable</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

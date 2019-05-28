@@ -1,0 +1,3 @@
+﻿# Ejercicios básicos de C#
+
+Datos simples, operadores, bucles, funciones de DateTime, consola, manejo de excepciones...
